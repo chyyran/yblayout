@@ -1,0 +1,24 @@
+Banner
+Top of Banner must be on 72pt from top of page
+Banner ends at 252pt mark
+Banner on Title is exempt from rules. Ends 540pt 
+Shadow must be on same hue as banner color
+Shadow begins at 24 pt mark. Ends at banner end
+Roboto
+
+Heading
+Nearest Full Font pt
+Suggested 24pt for standard
+Roboto Regular
+Capital "Grade"
+Should end 36pt left from banner end
+
+The top of the straight stroke in e must be on the same plane as a guide running directly through the center of the line
+
+Subheading
+Suggested 14pt for standard
+Roboto Light
+All lowercase
+Bounding box ends 12pt after 9
+
+DO NOT EVER USE IMAGES FOR LAYOUT. ALWAYS GO OVER IT.
